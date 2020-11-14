@@ -1,0 +1,23 @@
+body{
+  background: #253339;
+  color:#ccc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+fieldset{
+  border: 1px solid rgba(255,255,255,0.1);
+}
+label{
+  margin:5px;
+  text-transform: uppercase;
+}
+input{
+  background: rgba(255,255,255,0.1);
+  border:0;
+  margin:5px;
+  color:inherit;
+  height: 1.5em;
+  font-size: 110%;
+}
+input[type="number"]{
+  text-align:center
+}

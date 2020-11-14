@@ -1,0 +1,8 @@
+.radvis_container{
+    display:block;
+    position:relative;
+    width:100%;
+    overflow:hidden;
+    contain: layout;
+
+}
